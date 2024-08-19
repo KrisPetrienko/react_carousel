@@ -1,0 +1,2 @@
+.App{margin-inline:auto;width:-webkit-max-content;width:max-content}.form{display:flex;flex-direction:column;gap:10px;margin-bottom:50px}.Carousel{margin-inline:auto;overflow:hidden;width:-webkit-max-content;width:max-content}.Carousel__list{display:flex;gap:40px;list-style:none;margin:0;padding:0}.Carousel__buttons{display:flex;justify-content:space-between}.Carousel__button--disabled{opacity:.5;pointer-events:none}.Carousel__button--next:after{content:" »"}.Carousel__button--prev:before{content:"« "}
+/*# sourceMappingURL=main.e48496dd.css.map*/
